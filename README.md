@@ -48,10 +48,10 @@ Each alert contains:
 ⚙️ Installation
 Clone Repository
 git clone https://github.com/yourusername/folder-integrity-shield.git
-cd folder-integrity-shield
-Install Required Libraries:
 
-pip install watchdog
+cd folder-integrity-shield
+
+Install Required Libraries: pip install watchdog
 
 Tkinter is included with most Python installations.
 
