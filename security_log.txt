@@ -1,0 +1,135 @@
+2026-03-23 10:30:43 - INFO - Started monitoring: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-23 10:30:58 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-23 10:31:39 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-23 10:31:48 - INFO - Started monitoring: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-23 10:31:56 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-23 10:32:00 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-23 10:32:00 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-23 10:35:04 - INFO - Started monitoring: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-23 10:35:25 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-23 14:57:55 - ERROR - Email Error: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b0836744a5sm102949775ad.63 - gsmtp')
+2026-03-23 19:48:37 - INFO - Started monitoring: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-23 19:50:22 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-24 10:47:12 - INFO - Started monitoring: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-24 10:47:28 - WARNING - MODIFICATION DETECTED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-24 11:00:01,965 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-24 11:00:21,489 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-24 12:09:05,682 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-24 12:09:18,674 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-25 14:27:40,306 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-25 14:27:52,141 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-25 14:28:08,842 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/test file.txt
+2026-03-25 14:28:13,430 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 09:46:18,597 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/2.png
+2026-03-28 09:46:38,415 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/2.png
+2026-03-28 09:47:21,502 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png
+2026-03-28 09:47:21,503 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png
+2026-03-28 09:47:54,176 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/logs.pdf
+2026-03-28 09:49:01,154 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\logs.pdf
+2026-03-28 09:49:20,701 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\logs.pdf
+2026-03-28 09:49:59,705 - INFO - Monitoring started: C:/Users/DELL/Documents/file integrity project/logs.pdf
+2026-03-28 09:50:31,340 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\logs.pdf
+2026-03-28 09:55:25,516 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\logs.pdf
+2026-03-28 09:55:25,523 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\logs.pdf
+2026-03-28 10:17:53,636 - INFO - Monitoring folder: C:/Users/DELL/Documents/file integrity project
+2026-03-28 10:18:21,177 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 10:19:52,909 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png
+2026-03-28 11:00:19,627 - INFO - Monitoring folder: C:/Users/DELL/Documents/file integrity project
+2026-03-28 11:01:03,243 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png
+2026-03-28 11:01:33,017 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:01:43,895 - INFO - Monitoring folder: C:/Users/DELL/Documents/file integrity project
+2026-03-28 11:03:40,830 - INFO - Monitoring folder: C:/Users/DELL/Documents/file integrity project
+2026-03-28 11:06:33,467 - ERROR - [Errno 11001] getaddrinfo failed
+2026-03-28 11:07:22,407 - ERROR - [Errno 11001] getaddrinfo failed
+2026-03-28 11:23:32,613 - ERROR - Email Error: [Errno 11001] getaddrinfo failed
+2026-03-28 11:24:26,051 - WARNING - NEW FILE ADDED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-03-28 11:24:26,053 - ERROR - Email Error: [Errno 11001] getaddrinfo failed
+2026-03-28 11:25:40,383 - WARNING - FILE REMOVED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-03-28 11:34:02,390 - WARNING - NEW FILE CREATED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-03-28 11:34:02,393 - WARNING - NEW FILE CREATED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-03-28 11:34:40,439 - WARNING - FILE DELETED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-03-28 11:34:40,439 - WARNING - FILE DELETED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-03-28 11:35:12,852 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:35:12,853 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:35:31,367 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:35:31,367 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:35:57,764 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:35:57,765 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:35:57,765 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:36:11,311 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:36:11,311 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:36:11,312 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:36:31,047 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:36:31,047 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:36:31,048 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:36:31,048 - WARNING - CONTENT MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:45:13,399 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\New Bitmap Image.bmp
+2026-03-28 11:45:37,789 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:45:45,578 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-03-28 11:47:06,171 - INFO - Monitoring folder: C:/Users/DELL/Documents/file integrity project
+2026-03-28 11:52:26,981 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\New Bitmap Image.bmp
+2026-03-28 11:57:37,444 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\logs.pdf
+2026-03-28 11:58:10,856 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2.png.~tmp
+2026-03-28 11:58:10,910 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2.png~RF18693e27.TMP
+2026-03-28 11:58:10,910 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2.png~RF18693e27.TMP
+2026-03-28 11:59:00,111 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2(1).png
+2026-03-28 11:59:00,118 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2(1).png
+2026-03-28 11:59:00,471 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2(1).png.~tmp
+2026-03-28 11:59:00,499 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2(1).png~RF186a0000.TMP
+2026-03-28 11:59:00,500 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2(1).png~RF186a0000.TMP
+2026-04-03 17:02:53,071 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-03 17:04:12,399 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-06 11:53:41,698 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-04-06 11:53:58,022 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\New Text Document.txt
+2026-04-06 11:54:31,006 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg.~tmp
+2026-04-06 11:54:31,074 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg.~tmp
+2026-04-06 11:54:31,075 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg~RF46bf1f63.TMP
+2026-04-06 11:54:31,084 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg~RF46bf1f63.TMP
+2026-04-06 20:15:46,022 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-06 20:15:46,023 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-06 20:16:16,965 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg.~tmp
+2026-04-06 20:16:17,011 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg.~tmp
+2026-04-06 20:16:17,016 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg.~tmp
+2026-04-06 20:16:17,018 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg~RF194b67.TMP
+2026-04-06 20:16:17,020 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg~RF194b67.TMP
+2026-04-06 20:16:17,020 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg~RF194b67.TMP
+2026-04-06 20:16:17,075 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\WhatsApp Image 2026-03-23 at 19.55.41.jpeg~RF194b67.TMP
+2026-04-06 20:27:26,421 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2.png.~tmp
+2026-04-06 20:27:26,495 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png.~tmp
+2026-04-06 20:27:26,538 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2.png~RF238274.TMP
+2026-04-06 20:27:26,539 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2.png~RF238274.TMP
+2026-04-06 20:27:53,633 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png
+2026-04-06 20:27:53,699 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png.~tmp
+2026-04-06 20:27:53,704 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png.~tmp
+2026-04-06 20:27:53,708 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2.png~RF23ecf5.TMP
+2026-04-06 20:27:53,721 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2.png~RF23ecf5.TMP
+2026-04-06 20:28:26,678 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-06 20:30:48,071 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\logs.pdf
+2026-04-06 20:31:03,095 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\New folder (2)
+2026-04-06 20:31:14,446 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\New folder
+2026-04-06 20:32:16,584 - INFO - Monitoring folder: C:/Users/DELL/Documents/file integrity project
+2026-04-06 20:32:49,737 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png
+2026-04-06 20:34:11,281 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-06 20:34:14,545 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-06 20:34:45,566 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-06 20:35:20,678 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\3.png.~tmp
+2026-04-06 20:35:20,733 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\3.png.~tmp
+2026-04-06 20:35:20,735 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\3.png~RF2abefe.TMP
+2026-04-06 20:35:20,740 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\3.png~RF2abefe.TMP
+2026-04-08 10:14:21,729 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-04-08 10:14:30,039 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\New Text Document (2).txt
+2026-04-24 22:38:52,315 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-06-04 23:10:52,022 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-06-04 23:11:40,100 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2.png.~tmp
+2026-06-04 23:11:40,105 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2.png.~tmp
+2026-06-04 23:11:40,107 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2.png~RF1f6cf66f.TMP
+2026-06-04 23:11:40,199 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2.png~RF1f6cf66f.TMP
+2026-06-04 23:12:25,503 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2(2).png
+2026-06-04 23:12:25,504 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2(2).png
+2026-06-04 23:12:26,047 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2(2).png.~tmp
+2026-06-04 23:12:26,090 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\2(2).png.~tmp
+2026-06-04 23:12:26,113 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\2(2).png~RF1f6daa5e.TMP
+2026-06-04 23:12:26,117 - WARNING - DELETED: C:\Users\DELL\Documents\file integrity project\2(2).png~RF1f6daa5e.TMP
+2026-06-04 23:18:50,213 - WARNING - MODIFIED: C:\Users\DELL\Documents\file integrity project\test file.txt
+2026-06-05 10:07:19,765 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\New Text Document (3).txt
+2026-06-05 10:45:30,480 - WARNING - CREATED: C:\Users\DELL\Documents\file integrity project\New Text Document (4).txt
