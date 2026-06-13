@@ -29,17 +29,7 @@ Technologies Used:
 •Threading
 
 📂 Project Workflow:
-Select Folder
-      ↓
-Generate Baseline Hashes
-      ↓
-Start Monitoring
-      ↓
-Detect File Events
-      ↓
-Verify Integrity
-      ↓
-Log Activity + Send Email Alert
+Select Folder -> arrow Generate Baseline Hashes -> Start Monitoring -> Detect File Events -> Verify Integrity -> Log Activity + Send Email Alert
 
 📧 Email Alert System
 
@@ -72,16 +62,13 @@ This project uses Gmail SMTP for email alerts.
 Enable Two-Step Verification
 
 Go to:
-
 https://myaccount.google.com/security
 
 Enable:
-
 2-Step Verification
+
 Generate App Password
-
 Go to:
-
 https://myaccount.google.com/apppasswords
 
 Generate an App Password and update:
@@ -90,5 +77,4 @@ SENDER_EMAIL = "your_email@gmail.com"
 SENDER_PASSWORD = "your_app_password"
 RECEIVER_EMAIL = "receiver@gmail.com"
 
-▶️ How to Run
-python main.py
+▶️ How to Run : python main.py
