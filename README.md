@@ -32,9 +32,7 @@ Technologies Used:
 Select Folder -> arrow Generate Baseline Hashes -> Start Monitoring -> Detect File Events -> Verify Integrity -> Log Activity + Send Email Alert
 
 📧 Email Alert System
-
 The project uses Gmail SMTP to send notifications whenever a file is:
-
 •Created
 •Modified
 •Deleted
@@ -48,19 +46,13 @@ Each alert contains:
 ⚙️ Installation
 Clone Repository
 git clone https://github.com/yourusername/folder-integrity-shield.git
-
 cd folder-integrity-shield
-
 Install Required Libraries: pip install watchdog
-
 Tkinter is included with most Python installations.
 
 📧 Gmail Configuration
-
 This project uses Gmail SMTP for email alerts.
-
 Enable Two-Step Verification
-
 Go to:
 https://myaccount.google.com/security
 
